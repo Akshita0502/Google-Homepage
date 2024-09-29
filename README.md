@@ -1,3 +1,7 @@
-# Google-clone-frontend
-This is my first project while learning web development!
-It contains a simple front page of google.
+# Google-Homepage
+This is my first project in my Web Development journey!
+This is my take on Google homepage. 
+Tech-stack used:
+HTML, CSS
+Code editor: 
+VS Code. 
